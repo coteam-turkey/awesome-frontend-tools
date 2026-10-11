@@ -32,6 +32,9 @@
 * [PageSpeed Insights](https://pagespeed.web.dev) - Analyze web page performance.
 * [Playwright](https://playwright.dev) - Fast and reliable end-to-end testing for modern web apps.
 
+## Icons & Assets
+* [1human](https://github.com/mdagnolops/1human-reels) - Credited motion references with source licenses and an owner-approved agent workflow for shared human-agent libraries.
+
 ---
 
 ## Contributing
