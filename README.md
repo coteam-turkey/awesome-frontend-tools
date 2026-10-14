@@ -29,6 +29,7 @@
 * [Biome](https://biomejs.dev) - One toolchain for your web project (Linter & Formatter).
 
 ## Performance & Testing
+* [Agent QA](https://github.com/vostride/agent-qa) - The self-improving QA agent for natural-language web app regression tests, with run memory and UI-change adaptation.
 * [PageSpeed Insights](https://pagespeed.web.dev) - Analyze web page performance.
 * [Playwright](https://playwright.dev) - Fast and reliable end-to-end testing for modern web apps.
 
